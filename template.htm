@@ -1,0 +1,12 @@
+<tr>
+  {{each key}}
+    <td>
+      <img src='${"http://fe.it-academy.by/Examples/Beatles/"+imagefile}' alt='${imagedescript}' title='${imagedescript}'>
+      <div class='SName'>Название: <span>${imagedescript}</span></div>
+      <div class='SYear'>Год выхода: <span>${year}</span></div>
+      {{if place!=''}}
+       <div class='SPlace'>RollingStone: <span>${place}</span></div>
+      {{/if}}
+    </td>
+  {{/each}}
+</tr>

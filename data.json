@@ -1,0 +1,61 @@
+[{
+  "imagefile": "Please_Please_Me.jpg",
+  "imagedescript": "Please Please Me",
+  "year": "1963",
+  "place": "39"
+}, {
+  "imagefile": "With_the_Beatles.jpg",
+  "imagedescript": "With The Beatles",
+  "year": "1963",
+  "place": "59"
+}, {
+  "imagefile": "A_Hard_Day&apos;s_Night.jpg",
+  "imagedescript": "A Hard Day's Night",
+  "year": "1964",
+  "place": "307"
+}, {
+  "imagefile": "Beatles_for_Sale.jpeg",
+  "imagedescript": "Beatles for Sale",
+  "year": "1964",
+  "place": ""
+}, {
+  "imagefile": "Help!.jpg",
+  "imagedescript": "Help!",
+  "year": "1965",
+  "place": "331"
+}, {
+  "imagefile": "Rubber_Soul.jpg",
+  "imagedescript": "Rubber Soul",
+  "year": "1965",
+  "place": "5"
+}, {
+  "imagefile": "Revolver.jpg",
+  "imagedescript": "Revolver",
+  "year": "1966",
+  "place": ""
+}, {
+  "imagefile": "Sgt._Pepper&apos;s_Lonely_Hearts_Club_Band.jpg",
+  "imagedescript": "Sgt. Pepper's Lonely Hearts Club Band",
+  "year": "1967",
+  "place": "1"
+}, {
+  "imagefile": "Magical_Mystery_Tour.jpg",
+  "imagedescript": "Magical Mystery Tour",
+  "year": "1967",
+  "place": ""
+}, {
+  "imagefile": "The_White_Album.png",
+  "imagedescript": "The Beatles (White Album)",
+  "year": "1968",
+  "place": "10"
+}, {
+  "imagefile": "Yellow_Submarine.jpg",
+  "imagedescript": "Yellow Submarine",
+  "year": "1969",
+  "place": ""
+}, {
+  "imagefile": "Abbey_Road.jpg",
+  "imagedescript": "Abbey_Road",
+  "year": "1969",
+  "place": "14"
+}]
